@@ -1,5 +1,5 @@
 # Project structure
-The code for this project is based on the [matteo-rizzo](https://github.com/matteo-rizzo/fc4-pytorch) implementation of the Pytroch version of the FC4 implementation. The repository uploaded the core code for this article, you need to build the project according to the directory structure provided by matteo-rizzo.
+The code for this project is based on the [matteo-rizzo](https://github.com/matteo-rizzo/fc4-pytorch) implementation of the Pytroch version of the [FC4](https://github.com/yuanming-hu/fc4) implementation. The repository uploaded the core code for this article, you need to build the project according to the directory structure provided by matteo-rizzo.
 ```commandline
 auxiliary
     settings.py
