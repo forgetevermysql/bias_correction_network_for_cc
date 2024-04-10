@@ -80,7 +80,7 @@ RELOAD_PRETRAINED = False
 To test the model, run ```python3 test/test.py```. The test procedure can be configured by editing the value of the global variables at the beginning of the ```test.py``` file.
 
 # Reproduce the results
-The trained model has been uploaded to A. Please download the model folder and put it in the root directory with the following structure:
+The trained model has been uploaded to [figshare](https://doi.org/10.6084/m9.figshare.25574817). Please download the model folder and put it in the root directory with the following structure:
 ```commandline
 root
     trained_models
