@@ -1,5 +1,5 @@
 # Project structure
-The code for this project is based on the [matteo-rizzo](https://github.com/matteo-rizzo/fc4-pytorch) implementation of the Pytroch version of the [FC4](https://github.com/yuanming-hu/fc4) implementation. The repository uploaded the core code for this article, you need to build the project according to the directory structure provided by matteo-rizzo.
+The code of this project is built based on the pytorch version of [FC4](https://github.com/yuanming-hu/fc4) implemented by [matteo-rizzo](https://github.com/matteo-rizzo/fc4-pytorch). The core code from the paper is uploaded in the repository. If you need it, please refer to the directory structure provided by matteo-rizzo to build the project firstly, and replace the relevant code with the core code provided by this repository.The details are as follows：
 ```commandline
 auxiliary
     settings.py
